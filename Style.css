@@ -1,0 +1,16 @@
+h1{
+    font-size: 10px;
+    color:red;
+}
+h2{
+    font-size: 20px;
+    color:green;
+}
+#first_h1{
+
+    font-size: 30px;
+    color:blue;
+}
+.div{
+    border:1px solid red;
+}
